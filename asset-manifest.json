@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ShoppingApp/static/css/main.f206a0d6.chunk.css",
-    "main.js": "/ShoppingApp/static/js/main.96a195f8.chunk.js",
-    "main.js.map": "/ShoppingApp/static/js/main.96a195f8.chunk.js.map",
+    "main.css": "/ShoppingApp/static/css/main.9496f8e6.chunk.css",
+    "main.js": "/ShoppingApp/static/js/main.9bb59040.chunk.js",
+    "main.js.map": "/ShoppingApp/static/js/main.9bb59040.chunk.js.map",
     "runtime-main.js": "/ShoppingApp/static/js/runtime-main.3ad2c69c.js",
     "runtime-main.js.map": "/ShoppingApp/static/js/runtime-main.3ad2c69c.js.map",
     "static/js/2.9d9cf5d6.chunk.js": "/ShoppingApp/static/js/2.9d9cf5d6.chunk.js",
     "static/js/2.9d9cf5d6.chunk.js.map": "/ShoppingApp/static/js/2.9d9cf5d6.chunk.js.map",
     "index.html": "/ShoppingApp/index.html",
-    "static/css/main.f206a0d6.chunk.css.map": "/ShoppingApp/static/css/main.f206a0d6.chunk.css.map",
+    "static/css/main.9496f8e6.chunk.css.map": "/ShoppingApp/static/css/main.9496f8e6.chunk.css.map",
     "static/js/2.9d9cf5d6.chunk.js.LICENSE.txt": "/ShoppingApp/static/js/2.9d9cf5d6.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ShoppingApp/static/media/woman-holding-various-shopping-bags-copy-space.514db8e2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3ad2c69c.js",
     "static/js/2.9d9cf5d6.chunk.js",
-    "static/css/main.f206a0d6.chunk.css",
-    "static/js/main.96a195f8.chunk.js"
+    "static/css/main.9496f8e6.chunk.css",
+    "static/js/main.9bb59040.chunk.js"
   ]
 }
